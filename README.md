@@ -1,7 +1,6 @@
 # ShadowFN Hybrid
 
-https://discord.com/widget?id=1081289679661437058&theme=dark
-
+https://dsc.gg/shadowhybrid
 
 # Usage (LATEST)
 
