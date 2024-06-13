@@ -4,7 +4,7 @@ https://dsc.gg/shadowhybrid
 
 # Usage (LATEST)
 
-1. Download the launcher from [https://discord.com/channels/1081289679661437058/1081289887472418916](https://discord.com/channels/1081289679661437058/1081289887472418916)
+1. Download the launcher from https://discord.com/channels/1081289679661437058/1081289887472418916
 2. Extract it using WinRAR
 3. Go in the launcher folder
 4. Go in the Files folder
@@ -17,7 +17,7 @@ https://dsc.gg/shadowhybrid
 11. Once you logged into your fortnite account scroll down and click the blue `CONFIRM` button
 12. If you did everything correctly fortnite should launch
 
-If you encounter any issues make sure to take a screenshot of the issue you are having and send it to the [<#1137370535236489267>](https://discord.com/channels/1081289679661437058/1137370535236489267) channel as this launcher is in early stage
+If you encounter any issues make sure to take a screenshot of the issue you are having and send it to the https://discord.com/channels/1081289679661437058/1137370535236489267 channel as this launcher is in early stage
 
 
 # Usage (13.40)
